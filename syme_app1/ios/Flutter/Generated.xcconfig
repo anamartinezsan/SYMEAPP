@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=C:\Users\Musasa\Downloads\flutter_windows_1.22.4-stable\flutter
-FLUTTER_APPLICATION_PATH=C:\Users\Musasa\Desktop\syme_app1
+FLUTTER_APPLICATION_PATH=C:\Users\Musasa\Downloads\flutter_calendar-main\flutter_calendar-main
 FLUTTER_TARGET=lib\main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build\ios
